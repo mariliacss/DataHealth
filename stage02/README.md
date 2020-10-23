@@ -2,13 +2,13 @@
 
 ## Slides
 
-[slides](https://github.com/matheus-hatzlhoffer/mc536/blob/master/project/stage02/Proposta%20Projeto%20Banco%20de%20Dados.pdf)
+[slides](https://github.com/mariliacss/DataHealth/blob/main/stage02/slides/Proposta%20Projeto%20Banco%20de%20Dados.pdf)
 
 ## Motivação e contexto
 
 Todos já ouviram ou falaram aquele tipo de comentário dizendo que as pessoas estão mais tristes devido as redes sociais, certo? 
 
-No mundo atual falar sobre doenças como depressão e ansiedade estão se tornando cada vez menos tabu e somos rodeados por notícias desses assuntos mostrando números e dados alarmantes sobre a saúde mental das pessoas e nosso primeiro instinto é tentar entender o que pode causar esses transtornos nesse nosso mundo moderno. Por isso a ideia desse estudo é verificar um dos fatores mais associados a esse tipo de doença que são as redes sociais e buscar dados que relacionem causalidade ou não entre o uso de redes sociais, a felicidade aparente da população e taxas de suícidio.
+No mundo atual falar sobre doenças como depressão e ansiedade estão se tornando cada vez menos tabu e somos rodeados por notícias desses assuntos mostrando números e dados alarmantes sobre a saúde mental das pessoas e nosso primeiro instinto é tentar entender o que pode causar esses transtornos nesse nosso mundo moderno. Por isso a ideia desse estudo é estudar os fatores mais associados a esse tipo de doença que estão relacionados as redes sociais e internet, além de buscar dados que relacionem causalidade ou não entre o uso, a felicidade aparente da população e taxas de suícidio.
 
 ## Metodologia
 
