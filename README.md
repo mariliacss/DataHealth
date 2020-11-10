@@ -9,3 +9,7 @@
 ## Resumo do Projeto
 
 Pesquisa para verificar a influência das redes sociais/tempo passado na internet nos casos de suicidio
+
+## Rodando Jupyter
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mariliacss/DataHealth/main)
