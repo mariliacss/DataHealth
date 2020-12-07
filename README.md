@@ -4,7 +4,6 @@
 
 - Marília Correa da Silva Santos
 - Gustavo Praciano Barros
-- Matheus Carvalho Hatzlhoffer
 
 ## Resumo do Projeto
 
