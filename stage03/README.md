@@ -1,16 +1,17 @@
 # Etapa 03 - Análises com o Primeiro Modelo Lógico
 ## Primeiro Modelo Conceitual
 
-Coloque aqui a imagem do primeiro modelo conceitual em ER ou UML, como o exemplo a seguir: ER Taxi
+![modelo conceitual](../stage03/assets/ModeloConceitual.png)
 
 ## Primeiros Modelos Lógicos
 Coloque aqui os primeiros modelos lógicos dos bancos de dados relacionados aos modelos conceituais. Para o modelo relacional, sugere-se o formato a seguir. Para outros modelos lógicos o formato é livre, pode ser adotado aqueles apresentados em sala.
 
 Exemplo de modelo lógico relacional
 ```
-PESSOA(_Código_, Nome, Telefone)
-ARMÁRIO(_Código_, Tamanho, Ocupante)
-  Ocupante chave estrangeira -> PESSOA(Código)
+MentalHealthIssues(pais, ano, depressao, ansiedade, bipolaridade, alimentar, esquizofrenia)
+ShareDeathsSuicide(pais, codigo, ano, porcentagemDeMortes)
+RatesDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeathsMale, RatesDeathsFemale)
+RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, RatesDeaths1549, RatesDeaths5069, RatesDeaths70)
 ```
 ## Primeiro programa de extração e conversão de dados
 Coloque um link para o arquivo do notebook que executa a extração e conversão de dados. Ele estará dentro da pasta notebook. Se por alguma razão o código não for executável no Jupyter, coloque na pasta src. Se a extração e conversão envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
@@ -19,17 +20,16 @@ Coloque um link para o arquivo do notebook que executa a extração e conversão
 Coloque um link para o arquivo do notebook que executa o conjunto de queries. Ele estará dentro da pasta notebook. Se por alguma razão o código não for executável no Jupyter, coloque na pasta src. Se as queries forem executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
 
 ## Bases de Dados
-Elencar as bases de dados utilizadas no projeto. Trata-se de uma atualização daquelas apresentadas na Etapa 2.
 
-First Header | Second Header
+Título | Link | Descrição
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Suicide - Our World in Data | https://ourworldindata.org/suicide | Dados e tabelas gerais sobre suicídicio.
+Mental Health - Our World in Data | https://ourworldindata.org/mental-health | Dados e tabelas gerais sobre saúde mental.
 
 ## Arquivos de Dados
 Elencar os arquivos usados no projeto que estão disponíveis no Github do projeto.
 
-First Header | Second Header
+Nome | Link | Descrição
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
