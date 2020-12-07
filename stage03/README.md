@@ -4,15 +4,14 @@
 ![modelo conceitual](../stage03/assets/ModeloConceitual.png)
 
 ## Primeiros Modelos Lógicos
-Coloque aqui os primeiros modelos lógicos dos bancos de dados relacionados aos modelos conceituais. Para o modelo relacional, sugere-se o formato a seguir. Para outros modelos lógicos o formato é livre, pode ser adotado aqueles apresentados em sala.
 
-Exemplo de modelo lógico relacional
 ```
 MentalHealthIssues(pais, ano, depressao, ansiedade, bipolaridade, alimentar, esquizofrenia)
 ShareDeathsSuicide(pais, codigo, ano, porcentagemDeMortes)
 RatesDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeathsMale, RatesDeathsFemale)
 RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, RatesDeaths1549, RatesDeaths5069, RatesDeaths70)
 ```
+
 ## Primeiro programa de extração e conversão de dados
 Coloque um link para o arquivo do notebook que executa a extração e conversão de dados. Ele estará dentro da pasta notebook. Se por alguma razão o código não for executável no Jupyter, coloque na pasta src. Se a extração e conversão envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
 
