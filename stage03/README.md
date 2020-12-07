@@ -22,7 +22,7 @@ Coloque um link para o arquivo do notebook que executa o conjunto de queries. El
 ## Bases de Dados
 
 Título | Link | Descrição
------------- | -------------
+------------ | ------------- | -------------
 Suicide - Our World in Data | https://ourworldindata.org/suicide | Dados e tabelas gerais sobre suicídicio.
 Mental Health - Our World in Data | https://ourworldindata.org/mental-health | Dados e tabelas gerais sobre saúde mental.
 
@@ -30,7 +30,7 @@ Mental Health - Our World in Data | https://ourworldindata.org/mental-health | D
 Elencar os arquivos usados no projeto que estão disponíveis no Github do projeto.
 
 Nome | Link | Descrição
------------- | -------------
+------------ | ------------- | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
