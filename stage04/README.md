@@ -1,6 +1,6 @@
 # Etapa 04 - Análises com o Segundo Modelo Lógico
 ## Slides da Apresentação da Etapa
-[Slides](../stage03/assets/stage04.pdf)
+[Slides](https://github.com/mariliacss/DataHealth/blob/main/stage04/slides/stage04.pdf)
 
 ## Modelo Conceitual Atualizado
 ![modelo conceitual](https://github.com/mariliacss/DataHealth/blob/main/stage04/assets/Modelo%20Conceitual%20final.png)
