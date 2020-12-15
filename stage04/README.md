@@ -22,7 +22,7 @@ RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, Rates
 [Notebook](link)
 
 ### Neo4j
-Grafo ligando paises com a taxa de crescimento próxima
+**Grafo ligando paises com a taxa de crescimento próxima
 ```
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mariliacss/DataHealth/main/stage03/data/processed/mediaPorcentCresDecresSuicidio.csv' AS line
 CREATE (:Suicide {name: line.PAIS, media: line.MÉDIA})
@@ -65,7 +65,9 @@ CALL gds.louvain.stream('communityGraph2')
 YIELD nodeId, communityId
 RETURN gds.util.asNode(nodeId).name AS name, communityId
 ```
-Grafo ligando paises com a mesma doença prevalente
+![grafo](https://github.com/mariliacss/DataHealth/blob/main/stage04/assets/grafo2.png)
+
+**Grafo ligando paises com a mesma doença prevalente
 ```
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/mariliacss/DataHealth/main/stage03/data/processed/doencaMaisPrevalente.csv' AS line
 CREATE (:Disease {name: line.COUNTRY, doenca: line.DISEASE, media: line.MEDIATAXA})
@@ -106,6 +108,8 @@ CALL gds.louvain.stream('communityGraph')
 YIELD nodeId, communityId
 RETURN gds.util.asNode(nodeId).name AS name, communityId
 ```
+![grafo](https://github.com/mariliacss/DataHealth/blob/main/stage04/assets/grafo1.png)
+
 ## Bases de Dados
 
 Título | Link | Descrição
