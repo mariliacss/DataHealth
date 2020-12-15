@@ -14,10 +14,10 @@ RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, Rates
 ```
 
 ## Primeiro programa de extração e conversão de dados
-Coloque um link para o arquivo do notebook que executa a extração e conversão de dados. Ele estará dentro da pasta notebook. Se por alguma razão o código não for executável no Jupyter, coloque na pasta src. Se a extração e conversão envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+[Notebook](link)
 
 ## Primeiro conjunto de queries
-Coloque um link para o arquivo do notebook que executa o conjunto de queries. Ele estará dentro da pasta notebook. Se por alguma razão o código não for executável no Jupyter, coloque na pasta src. Se as queries forem executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+[Notebook](link)
 
 ## Bases de Dados
 
