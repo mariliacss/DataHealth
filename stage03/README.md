@@ -14,10 +14,10 @@ RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, Rates
 ```
 
 ## Primeiro programa de extração e conversão de dados
-[Notebook](link)
+[Notebook](https://github.com/mariliacss/DataHealth/blob/main/stage03/notebooks/projetoBDFinal.ipynb)
 
 ## Primeiro conjunto de queries
-[Notebook](link)
+[Notebook](https://github.com/mariliacss/DataHealth/blob/main/stage03/notebooks/projetoBDFinal.ipynb)
 
 ## Bases de Dados
 
