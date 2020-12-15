@@ -16,10 +16,10 @@ RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, Rates
 ```
 
 ## Programa de extração e conversão de dados atualizado
-[Notebook](link)
+[Notebook](https://github.com/mariliacss/DataHealth/blob/main/stage04/notebooks/projetoBDFinal.ipynb)
 
 ## Conjunto de queries de dois modelos
-[Notebook](link)
+[Notebook](https://github.com/mariliacss/DataHealth/blob/main/stage04/notebooks/projetoBDFinal.ipynb)
 
 ### Neo4j
 **Grafo ligando paises com a taxa de crescimento próxima**
