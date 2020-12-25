@@ -39,7 +39,7 @@ Apresente os resultados da forma mais rica possível, com gráficos e tabelas. M
 
 ![maiorestaxas](../EtapaFinal/assets/maiores.png)
 
-![menorestaxas](../EtapaFinal/menores.png)
+![menorestaxas](../EtapaFinal/assets/menores.png)
 
 ## Conclusões *
 
@@ -58,7 +58,7 @@ ShareDeathsSuicide(pais, codigo, ano, porcentagemDeMortes)
 RatesDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeathsMale, RatesDeathsFemale)
 RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, RatesDeaths1549, RatesDeaths5069, RatesDeaths70)
 ```
-**FALTA COLOCAR O MODELO CONCEITUAL PARA OS GRAFOS**
+**FALTA COLOCAR O MODELO LÓGICO PARA OS GRAFOS**
 
 ## Conjunto de queries para todos os modelos
 
