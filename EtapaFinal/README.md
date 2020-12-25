@@ -115,7 +115,7 @@ RETURN gds.util.asNode(nodeId).name AS name, communityId
 ```
 ![grafo](https://github.com/mariliacss/DataHealth/blob/main/stage04/assets/grafo2.png)
 
-![Arquiv .cys](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/src/grafroSuicidio.cys)
+[link para o arquivo .cys](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/src/grafroSuicidio.cys)
 
 **Grafo ligando paises com a mesma doença prevalente**
 ```
@@ -160,7 +160,7 @@ RETURN gds.util.asNode(nodeId).name AS name, communityId
 ```
 ![grafo](https://github.com/mariliacss/DataHealth/blob/main/stage04/assets/grafo1.png)
 
-![Arquiv .cys](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/src/grafoDoencaPrevalente.cys)
+[link para o arquivo .cys](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/src/grafoDoencaPrevalente.cys)
 
 ## Bases de Dados
 
