@@ -15,6 +15,7 @@
 Projeto com a intenção de correlacionar os casos de suicídio pelo mundo com as doenças mentais mais comuns, como depressão, ansiedade, bipolaridade, verificando sua influência nos países com maiores taxas de suicídio.
 
 ## Motivação e Contexto *
+
 Descrição do tema do projeto, incluindo motivação e contexto gerador.
 
 ## Detalhamento do Projeto *
@@ -35,6 +36,10 @@ Relatório de evolução, descrevendo as evoluções na modelagem do projeto, di
 ## Resultados e Discussão *
 
 Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente). A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
+
+![maiorestaxas](../EtapaFinal/assets/maiores.png)
+
+![menorestaxas](../EtapaFinal/menores.png)
 
 ## Conclusões *
 
@@ -59,7 +64,7 @@ RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, Rates
 
 ### SQL
 
-As queries em SQL estão disponíveis no mesmo notebook ([link](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/slides/Apresenta%C3%A7%C3%A3o%20final%20.pdf)) em que estão as tabelas e a conversão de dados. No notebook está detalhado em qual parte começa as queries. Caso queira abrir no Binder, o link está no README inicial do repositório.
+As queries em SQL estão disponíveis no mesmo notebook ([link](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/notebooks/projetoBDFinal.ipynb)) em que estão as tabelas e a conversão de dados. No notebook está detalhado em qual parte começa as queries (os links do sumário só funcionam no Binder). Caso queira abrir no Binder, o link está no README inicial do repositório.
 
 ### Neo4j
 
