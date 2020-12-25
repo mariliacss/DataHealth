@@ -64,7 +64,9 @@ RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, Rates
 
 ### SQL
 
-As queries em SQL estão disponíveis no mesmo notebook ([link](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/notebooks/projetoBDFinal.ipynb)) em que estão as tabelas e a conversão de dados. No notebook está detalhado em qual parte começa as queries (os links do sumário só funcionam no Binder). Caso queira abrir no Binder, o link está no README inicial do repositório.
+As queries em SQL estão disponíveis no mesmo notebook ([link](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/notebooks/projetoBDFinal.ipynb)) em que estão as tabelas e a conversão de dados. No notebook está detalhado em qual parte começa as queries (os links do sumário só funcionam no Binder)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mariliacss/DataHealth/main)
 
 ### Neo4j
 
