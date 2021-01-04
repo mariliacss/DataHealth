@@ -20,7 +20,7 @@ Atualmente, as notícias sobre saúde mental e sua importância estão cada vez 
 
 ## Detalhamento do Projeto *
 
-Apresente aqui detalhes da análise. Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com ~~~, tal como ~~~python. Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
+*Apresente aqui detalhes da análise. Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com ~~~, tal como ~~~python. Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.*
 
 ~~~python
 df = pd.read_excel("/content/drive/My Drive/Colab Notebooks/dataset.xlsx");
@@ -29,13 +29,15 @@ sns.distplot(df.Hemoglobin);
 plt.show();
 ~~~
 
-## Evolução do Projeto *
+## Evolução do Projeto
 
-Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos. Podem ser apresentados destaques na evolução dos modelos conceitual e lógico. O modelo inicial e intermediários (quando relevantes) e explicação de refinamentos, mudanças ou evolução do projeto que fundamentaram as decisões. Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
+Durante a execução do projeto houveram várias mudanças importantes. Primeiramente, começamos com um tema relacionando suicídio com o uso de internet e rede sociais. Porém, durante a presquisa para dar continuidade na segunda estapa, não encontramos os dados que queríamos para da forma ao nosso modelo conceitual e fazer as análises que pensamos de início. Dessa forma, e com o acumulo de outras atividades da graduação, ficamos perdidos em como prosseguir com o projeto e acabamos perdendo muito tempo. Além disso, ficamos defasados em integrantes pois um membro trancou a matéria.
+A partir desses problemas, tivemos uma reunião para conversar como iríamos resolver. Assim, mudamos o direcionamento e, aproveitando as ótimas bases de dados que encontramos sobre suicídio e saúde mental, resolvemos verificar essa relação. Apesar do tempo curto que tivemos, por ter que recomeçar do zero praticamente, conseguimos filtrar os dados e fazer análises muito interessentes para as etapas 3 e 4.
+Ainda assim tivemos alguns problemas: na filtragem de dados para saber quais eram absolutos e relativos para comparação; organizar os dados em tabelas para o modelo relacional, pois os dados brutos estavam "em colunas" e passamos uma grande parte de uma aula com ajuda do professor para mudar de uma forma mais fácil de realizar as queries; e o Binder não ajudou na execução de algumas queries que demandavam mais processamento.
 
 ## Resultados e Discussão *
 
-Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente). A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
+*Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente). A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?*
 
 ![maiorestaxas](../EtapaFinal/assets/maiores.png)
 
@@ -43,7 +45,7 @@ Apresente os resultados da forma mais rica possível, com gráficos e tabelas. M
 
 ## Conclusões *
 
-Apresente aqui as conclusões finais do trabalho e as lições aprendidas.
+*Apresente aqui as conclusões finais do trabalho e as lições aprendidas.*
 
 ## Modelo Conceitual Final
 
