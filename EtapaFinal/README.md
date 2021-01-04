@@ -32,7 +32,9 @@ plt.show();
 ## Evolução do Projeto
 
 Durante a execução do projeto houveram várias mudanças importantes. Primeiramente, começamos com um tema relacionando suicídio com o uso de internet e rede sociais. Porém, durante a presquisa para dar continuidade na segunda estapa, não encontramos os dados que queríamos para da forma ao nosso modelo conceitual e fazer as análises que pensamos de início. Dessa forma, e com o acumulo de outras atividades da graduação, ficamos perdidos em como prosseguir com o projeto e acabamos perdendo muito tempo. Além disso, ficamos defasados em integrantes pois um membro trancou a matéria.
+
 A partir desses problemas, tivemos uma reunião para conversar como iríamos resolver. Assim, mudamos o direcionamento e, aproveitando as ótimas bases de dados que encontramos sobre suicídio e saúde mental, resolvemos verificar essa relação. Apesar do tempo curto que tivemos, por ter que recomeçar do zero praticamente, conseguimos filtrar os dados e fazer análises muito interessentes para as etapas 3 e 4.
+
 Ainda assim tivemos alguns problemas: na filtragem de dados para saber quais eram absolutos e relativos para comparação; organizar os dados em tabelas para o modelo relacional, pois os dados brutos estavam "em colunas" e passamos uma grande parte de uma aula com ajuda do professor para mudar de uma forma mais fácil de realizar as queries; e o Binder não ajudou na execução de algumas queries que demandavam mais processamento.
 
 ## Resultados e Discussão *
