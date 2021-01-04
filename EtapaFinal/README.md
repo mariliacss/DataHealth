@@ -14,9 +14,9 @@
 
 Projeto com a intenção de correlacionar os casos de suicídio pelo mundo com as doenças mentais mais comuns, como depressão, ansiedade, bipolaridade, verificando sua influência nos países com maiores taxas de suicídio.
 
-## Motivação e Contexto *
+## Motivação e Contexto 
 
-Descrição do tema do projeto, incluindo motivação e contexto gerador.
+Atualmente, as notícias sobre saúde mental e sua importância estão cada vez mais presentes em nosso cotidiano. Estmos sempre sendo bombardeados sobre saúde mental no trabalho, na faculdade ou colégio, em casa, etc. E com o isolamento social na pandemia, a reflexão sobre esse assunto acabou se tornando inevitável devido ao logo tempo sozinho sem poder seguir uma rotina e ver as pessoas que gostamos. Além disso, também é comum vermos notícias sobre suicídio associada a falta de saúde mental, principalmente depressão. Nesse contexto, ficamos interessados em pesquisar a respeito dessa relação entre casos de suicídio e as desordens mentais mais comuns no mundo.
 
 ## Detalhamento do Projeto *
 
