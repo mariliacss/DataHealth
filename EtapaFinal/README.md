@@ -37,6 +37,8 @@ A partir desses problemas, tivemos uma reunião para conversar como iríamos res
 
 Ainda assim tivemos alguns problemas: na filtragem de dados para saber quais eram absolutos e relativos para comparação; organizar os dados em tabelas para o modelo relacional, pois os dados brutos estavam "em colunas" e passamos uma grande parte de uma aula com ajuda do professor para mudar de uma forma mais fácil de realizar as queries; e o Binder não ajudou na execução de algumas queries que demandavam mais processamento.
 
+Por fim, para alguns dados conseguidos na forma tabular não passar para modelo de grafos para conseguirmos fazer análises mais profundos nesse modelo. Mas ficamos satisfeitos com a quantidade e qualidade das análises que fizemos e, se desse mais tempo, teríamos muito mais para procurar.
+
 ## Resultados e Discussão *
 
 *Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente). A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?*
@@ -54,7 +56,7 @@ Ainda assim tivemos alguns problemas: na filtragem de dados para saber quais era
 ![modelo](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/Modelo%20Conceitual%20final.png)
 
 ## Modelos Lógicos Finais *
-
+* Relacional:
 ```
 MentalHealthDisorders(country, year, disease, share)
 DisordersByAge(country, year, disease, age, share)
@@ -62,7 +64,11 @@ ShareDeathsSuicide(pais, codigo, ano, porcentagemDeMortes)
 RatesDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeathsMale, RatesDeathsFemale)
 RatesDetailedDeathsSuicide(pais, codigo, ano, RatesDeaths, RatesDeaths514, RatesDeaths1549, RatesDeaths5069, RatesDeaths70)
 ```
-**FALTA COLOCAR O MODELO LÓGICO PARA OS GRAFOS**
+* Grafos:
+```
+Países com taxa de crescimento próxima;
+Países com a mesma doença prevalente;
+```
 
 ## Conjunto de queries para todos os modelos
 
