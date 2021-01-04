@@ -55,7 +55,7 @@ Por fim, para alguns dados conseguidos na forma tabular não passar para modelo 
 
 ![modelo](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/Modelo%20Conceitual%20final.png)
 
-## Modelos Lógicos Finais *
+## Modelos Lógicos Finais
 * Relacional:
 ```
 MentalHealthDisorders(country, year, disease, share)
