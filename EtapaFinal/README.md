@@ -45,23 +45,37 @@ Por fim, para alguns dados conseguidos na forma tabular não passar para modelo 
 ## Resultados e Discussão
 
 * Top 3 doenças que mais aparecem nos países com maior e menor taxa de suicídio.
+
 ![maiorestaxas](../EtapaFinal/assets/maiores.png)
 
-![menorestaxas](../EtapaFinal/assets/menores.png)
+![maiorestaxas](../EtapaFinal/assets/maiores.png)
+
+![maiorestaxas](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/maiores%20taxas.JPG)
+
+![maiorestaxas](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/menores%20taxas.JPG)
 
 A partir dos gráficos conseguimos perceber que nos paises de maiores taxas de suicídio a doença mais prevalente é Depressão, já nos de menores taxas é Ansiedade. Aqui podemos perceber que talvez a depressão possa ser a principal doença associada ao suicídio.
 
 * Qual a idade mais afetada pelas doenças mais prevalentes nos paises com maior taxa de suicídio.
-A partir dos resultados dessa consulta percebemos que 
-*Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente). A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?*
+
+![maiorestaxas](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/idades.JPG)
+
+* Países que aumentaram/diminuíram as taxas.
+* Países que aumentaram/diminuíram as taxas médias.
+
+![maiorestaxas](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/aumentam.JPG)
+
+![maiorestaxas](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/diminuiram.JPG)
 
 ## Conclusões
 
 Apesar de estarmos fazendo análises mais superficiais e obviamente não sermos nenhum tipo de profissional da área conseguimos pensar em algumas coisas que com mais análises e mais criteriosas.
 
-Primeiramente nos países com maior taxa de suicidio, observou-se uma maior prevalência de depressão, como já foi dito, e de ansiedade nos países com menor taxa. Além disso, de modo geral o suicídio diminui no mundo, em média os avanços mostraram se mais expressivos depois dos anos 2000, mas as taxas crescimento de doenças mentais, mostraram se ter mais crescimento durante os anos.
+Primeiramente, nos países com maior taxa de suicidio, observou-se uma maior prevalência de depressão, como já foi dito, e de ansiedade nos países com menor taxa. Além disso, de modo geral o suicídio diminui no mundo, em média os avanços mostraram se mais expressivos depois dos anos 2000, mas as taxas crescimento de doenças mentais, mostraram se ter mais crescimento durante os anos.
 
-Os países com maior desenvolvimento, mostraram se ter mais ocorrência de suicídios na faixa etária de 15 a 49 anos. De modo geral, a maioria das doenças e suicídios mostraram se mais presentes com pessoas acima de 70 anos. 
+Os países com maior desenvolvimento (SDI e High Income), mostraram se ter mais ocorrência de suicídios na faixa etária de 15 a 49 anos. De modo geral, a maioria das doenças e suicídios mostraram se mais presentes com pessoas acima de 70 anos.
+
+![maiorestaxas](https://github.com/mariliacss/DataHealth/blob/main/EtapaFinal/assets/highincome.JPG)
 
 Por fim, verificamos que com alta diminuição de suicidio de um país, não podemos implicar que o contexto do país é positivo pois observamos que a Groelândia foi um dos países que mais diminuíram as taxas (como podemos ver nos resultados da querie de aumento e diminuição), porém ainda continua como um das maiores taxas de suicídio (como podemos ver nos resultados da querie de doença prevalente nos países de maiores taxas).
 
